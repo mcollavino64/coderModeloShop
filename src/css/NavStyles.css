@@ -1,0 +1,6 @@
+.navbar{
+    /* background-color:var(--colorNombre); LLAMAR A VARIABLE */
+    color:red;
+    display: flex;
+    background-color: aqua;
+}

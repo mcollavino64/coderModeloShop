@@ -1,0 +1,6 @@
+@import "./NavStyles.css";
+
+/* crear variables de estilo */
+:root{
+    --colorNombre:#777;
+}
